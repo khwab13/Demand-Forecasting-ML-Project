@@ -54,12 +54,12 @@ All data cleaning, feature engineering, model training, and evaluation steps are
 
 
 ## 📢 Results Summary
-- LSTM gave the best predictive accuracy overall.
+- XGBoost gave the best predictive accuracy overall.
 - Power BI dashboard gives a complete business overview in one page.
 
 
 
-![Dashboard Preview](Dashboard_dem_ml.png)
+![Dashboard Preview](Dashboard_dem_ml_pro.png)
 
 
 ---
