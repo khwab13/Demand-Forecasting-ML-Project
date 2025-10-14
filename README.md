@@ -30,7 +30,7 @@ The Power BI dashboard summarizes:
 - 🏷️ Product-level Performance  
 - 🌍 Country-wise Sales Distribution  
 
-📂 **File:** [`demand_powerBI_Dashboard_project.pbix`](.demand_powerBI_Dashboard_project.pbix)
+📂 **File:** [`demand_powerBI_Dashboard_project.pbix`](./demand_powerBI_Dashboard_project.pbix)
 
 ---
 
@@ -43,7 +43,7 @@ All data cleaning, feature engineering, model training, and evaluation steps are
 ## 📁 Outputs
 | File | Description |
 |------|--------------|
-| `actual_vs_pred.csv` | Actual vs Predicted comparison data (used in Power BI) |
+| `actu_vs_pred.csv` | Actual vs Predicted comparison data (used in Power BI) |
 
 ---
 
